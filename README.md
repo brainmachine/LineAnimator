@@ -2,6 +2,7 @@
 
 Reads images line-by-line and creates animated fields of colour. 
 Created with openFrameworks 0.8.0
+Collaboration with Malcolm Levy. Source images from ['Other Frames'](http://transfergallery.com/other-frames-malcolm-levy/) by Malcolm Levy.
 
 Sample output: 
 
