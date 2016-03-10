@@ -73,3 +73,10 @@ void ofApp::draw()
     }
 }
 
+void ofApp::keyPressed(int key){
+    if (key == 's') {
+        ofSaveScreen(ofToString(ofGetFrameNum())+".png");
+    }
+}
+
+

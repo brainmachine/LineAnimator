@@ -7,7 +7,7 @@ public:
     void setup();
     void update();
     void draw();
-    
+    void keyPressed(int key);
     
     ofDirectory dir;
     string path; //we needpaths for our images
